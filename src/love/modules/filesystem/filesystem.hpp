@@ -37,6 +37,8 @@ namespace love {
         void                          setRequirePath(const std::string &paths); // TODO
 
         void                          preferSaveDirectory(bool preferSave);
+
+        inline std::string savePath = "sd:/lovewii";
     }
 }
 

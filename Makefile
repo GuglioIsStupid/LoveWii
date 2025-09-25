@@ -37,7 +37,8 @@ SOURCES		:=	src \
 				src/lib/audiogc \
 				src/lib/pngu \
 				src/lib/GRRLIB \
-				src/lib/GRRLIB/grrlib
+				src/lib/GRRLIB/grrlib \
+				src/lib/physfs
 
 DATA		:=	data 
 INCLUDES    :=  src/lib/ 
